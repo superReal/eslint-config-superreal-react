@@ -1,7 +1,7 @@
 # ESLint Config superReal (React)
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs) for superReal (React)
 
-_Based on [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
+_Based on [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)_
 
 [![Dependency Status](https://david-dm.org/superReal/eslint-config-superreal-react.svg)](https://david-dm.org/superReal/eslint-config-superreal-react)
 [![devDependencies Status](https://david-dm.org/superReal/eslint-config-superreal-react/dev-status.svg)](https://david-dm.org/superReal/eslint-config-superreal-react?type=dev)
