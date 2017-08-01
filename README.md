@@ -15,7 +15,7 @@ _Based on [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-air
 ## Installation
     
 ```bash
-$ npm install --save-dev eslint@3.19.0 eslint-plugin-import@2.2.0 eslint-plugin-jsx-a11y@5.0.3 eslint-plugin-react@7.0.1 eslint-config-superreal-react
+$ npm install --save-dev eslint@3.19.0 eslint-plugin-import@2.7.0 eslint-plugin-jsx-a11y@5.1.1 eslint-plugin-react@7.1.0 eslint-config-superreal-react
 ```
 
 ## Usage
